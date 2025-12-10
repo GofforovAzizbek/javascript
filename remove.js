@@ -5,8 +5,8 @@
 // let A = Number(prompt("A = "));
 
 // let b = A % 100;
-// let e = Math.floor(A / 100);
-// let c = Math.floor(b / 10);
+// let e = parseInt(A / 100);
+// let c = parseInt(b / 10);
 // let d = b % 10;
 
 // alert("Teskari tartibda:\n" + d + c + e);
@@ -15,8 +15,8 @@
 // let A = Number(prompt("A = "));
 
 // let b = A % 100;
-// let e = Math.floor(A / 100);
-// let c = Math.floor(b / 10);
+// let e = parseInt(A / 100);
+// let c = parseInt(b / 10);
 // let d = b % 10;
 
 // alert("" + c + d + e);
@@ -25,8 +25,8 @@
 // let A = Number(prompt("A = "));
 
 // let b = A % 100;
-// let e = Math.floor(A / 100);
-// let c = Math.floor(b / 10);
+// let e = parseInt(A / 100);
+// let c = parseInt(b / 10);
 // let d = b % 10;
 
 // alert("" + d + e + c);
